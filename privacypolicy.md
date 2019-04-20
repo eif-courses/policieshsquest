@@ -6,7 +6,7 @@
 
 <p>HSQuest ("us", "we", or "our") operates the HSQuest mobile application (hereinafter referred to as the "Service").</p>
 
-<p>This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. Our Privacy Policy  for HSQuest is created with the help of the <a href="https://www.privacypolicies.com//">PrivacyPolicies.com Privacy Policy Generator</a>.</p>
+<p>This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. Our Privacy Policy for HSQuest.</p>
 
 <p>We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, the terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.</p>
 
@@ -110,7 +110,4 @@
 
 <h2>Contact Us</h2>
 <p>If you have any questions about this Privacy Policy, please contact us:</p>
-<ul>
-        <li>By email: paukstis112@gmail.com</li>
-          
-        </ul>
+<ul><li>By email: m.gzegozevskis@gmail.com, paukstis112@gmail.com.</li></ul>
